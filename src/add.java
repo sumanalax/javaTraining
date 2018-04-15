@@ -9,7 +9,7 @@ public static void main(String[]args){
     if(c>20){
        System.out.println("c is greater" );
      }
-    if(c<20){
+    else{
        System.out.println("c is lesser");
      }
    }
